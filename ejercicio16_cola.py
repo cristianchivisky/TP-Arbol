@@ -1,6 +1,6 @@
-from heap import HeapMin
+from heap import HeapMax
 
-cp = HeapMin()
+cp = HeapMax()
 cp.agregar('PrimerDocEmpleado', 1)
 cp.agregar('SegundoDocEmpleado', 1)
 cp.agregar('TercerDocEmpleado', 1)
